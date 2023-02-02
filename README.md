@@ -1,5 +1,35 @@
 # Created a Sample size Calculator.
 
+---
+
+# For install
+
+**follow the next steps**.
+
+* Step 1:
+
+Create a Virtual Environment.
+
+```
+python -m venv venv
+```
+
+* Step 2:
+
+Activate your environment:
+
+```
+source venv/bin/activate
+```
+* Step 3:
+
+Install the requirements via pip
+
+```
+pip install -r requirements.txt
+```
+---
+
 The model is a project in Excel.
 but i can coverted in app for terminal.
 
